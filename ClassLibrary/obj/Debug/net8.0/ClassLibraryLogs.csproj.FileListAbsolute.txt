@@ -1,0 +1,11 @@
+C:\Users\JOEL\source\repos\ClassLibrarySol\ClassLibrary\bin\Debug\net8.0\ClassLibraryLogs.deps.json
+C:\Users\JOEL\source\repos\ClassLibrarySol\ClassLibrary\bin\Debug\net8.0\ClassLibraryLogs.dll
+C:\Users\JOEL\source\repos\ClassLibrarySol\ClassLibrary\bin\Debug\net8.0\ClassLibraryLogs.pdb
+C:\Users\JOEL\source\repos\ClassLibrarySol\ClassLibrary\obj\Debug\net8.0\ClassLibraryLogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOEL\source\repos\ClassLibrarySol\ClassLibrary\obj\Debug\net8.0\ClassLibraryLogs.AssemblyInfoInputs.cache
+C:\Users\JOEL\source\repos\ClassLibrarySol\ClassLibrary\obj\Debug\net8.0\ClassLibraryLogs.AssemblyInfo.cs
+C:\Users\JOEL\source\repos\ClassLibrarySol\ClassLibrary\obj\Debug\net8.0\ClassLibraryLogs.csproj.CoreCompileInputs.cache
+C:\Users\JOEL\source\repos\ClassLibrarySol\ClassLibrary\obj\Debug\net8.0\ClassLibraryLogs.dll
+C:\Users\JOEL\source\repos\ClassLibrarySol\ClassLibrary\obj\Debug\net8.0\refint\ClassLibraryLogs.dll
+C:\Users\JOEL\source\repos\ClassLibrarySol\ClassLibrary\obj\Debug\net8.0\ClassLibraryLogs.pdb
+C:\Users\JOEL\source\repos\ClassLibrarySol\ClassLibrary\obj\Debug\net8.0\ref\ClassLibraryLogs.dll

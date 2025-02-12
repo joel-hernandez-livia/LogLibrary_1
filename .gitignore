@@ -1,0 +1,17 @@
+# Archivos de compilación y dependencias
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# Archivos de configuración de Visual Studio
+.vs
+*.suo
+*.user
+*.cache
+*.csproj.user
+
+# Archivos de logs y depuración
+*.log
+Logs/

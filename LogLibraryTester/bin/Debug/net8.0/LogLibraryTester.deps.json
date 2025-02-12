@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LogLibraryTester/1.0.0": {
+        "dependencies": {
+          "ClassLibraryLogs": "1.0.0"
+        },
+        "runtime": {
+          "LogLibraryTester.dll": {}
+        }
+      },
+      "ClassLibraryLogs/1.0.0": {
+        "runtime": {
+          "ClassLibraryLogs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LogLibraryTester/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryLogs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
